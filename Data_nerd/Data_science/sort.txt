@@ -1,0 +1,6 @@
+Get the data
+EDA
+Feature Engineering
+Select and train a model
+Fine-tune
+Launch monitor and maintain your system
