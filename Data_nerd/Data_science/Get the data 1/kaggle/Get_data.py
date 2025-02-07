@@ -19,9 +19,9 @@ def download_kaggle_dataset(dataset: str, save_path: str):
     
     print(f"Dataset downloaded and extracted to {save_path}")
 
-# Example usage
-if __name__ == "__main__":
-    dataset_name = "zynicide/wine-reviews"  # Replace with the actual dataset
-    save_directory = "/workspaces/disent-data-science/Data_nerd/Data_science/Get the data 1"
+# # Example usage
+# if __name__ == "__main__":
+#     dataset_name = "zynicide/wine-reviews"  # Replace with the actual dataset
+#     save_directory = "/workspaces/disent-data-science/Data_nerd/Data_science/Get the data 1"
     
-    download_kaggle_dataset(dataset_name, save_directory)
+#     download_kaggle_dataset(dataset_name, save_directory)
